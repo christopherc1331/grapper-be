@@ -1,0 +1,6 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    welcomeMessage: Welcome to production
